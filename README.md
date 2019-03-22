@@ -8,7 +8,7 @@
 - Volume: 2
 
 ## Description
-This book tackles the divisive question of the Stative\slash Non-stative distinction by going straight to the root of the lexical items that have been at the heart of this discussion. It provides an analysis of property items (Dual Aspectual Forms) couched in the syntax-semantics interface eliminating the false dichotomy at the base of the controversy in the field and the suggestion that a lexical item needs be unambiguously Stative or Non-stative. What we see in this work is theoretical grounding for a flexible group of lexical items comprising both verbs and adjectives underlyingly with allowances made for derivation into either category. The result is a work that is conceptually and theoretically appealing and one that brings consensus.
+This book tackles the divisive question of the Stative/ Non-stative distinction by going straight to the root of the lexical items that have been at the heart of this discussion. It provides an analysis of property items (Dual Aspectual Forms) couched in the syntax-semantics interface eliminating the false dichotomy at the base of the controversy in the field and the suggestion that a lexical item needs be unambiguously Stative or Non-stative. What we see in this work is theoretical grounding for a flexible group of lexical items comprising both verbs and adjectives underlyingly with allowances made for derivation into either category. The result is a work that is conceptually and theoretically appealing and one that brings consensus.
 
 ## URL
 
